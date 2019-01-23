@@ -7,3 +7,4 @@
 - kukulogy
 - jamezz24
 - jofftiquez
+- botjaeger
